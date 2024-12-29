@@ -1,0 +1,7 @@
+#include "font8.h"
+#include "font12.h"
+#include "font16.h"
+#include "font20.h"
+#include "font24.h"
+#include "font12CN.h"
+#include "font24CN.h" 
